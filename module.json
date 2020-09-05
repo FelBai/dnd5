@@ -16,7 +16,7 @@
    "packs" : [],
    "scripts" : [],
    "styles" : [],
-   "url" : "https://gitlab.com/henry4k/foundryvtt-lang-de",
-   "manifest" : "https://gitlab.com/henry4k/foundryvtt-lang-de/-/raw/master/module.json",
+   "url" : "https://raw.githubusercontent.com/FelBai/dnd5/",
+   "manifest" : "https://raw.githubusercontent.com/FelBai/dnd5/master/module.json",
    "download" : "https://gitlab.com/henry4k/foundryvtt-lang-de/-/jobs/artifacts/v0.6.0/download?job=build"
 }
