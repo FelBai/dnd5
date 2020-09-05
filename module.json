@@ -17,6 +17,6 @@
    "scripts" : [],
    "styles" : [],
    "url" : "https://raw.githubusercontent.com/FelBai/dnd5/",
-   "manifest" : "https://raw.githubusercontent.com/FelBai/dnd5/master/module.json",
+   "manifest" : "https://raw.githubusercontent.com/FelBai/dnd5/master/module.json"
    "download" : "https://gitlab.com/henry4k/foundryvtt-lang-de/-/jobs/artifacts/v0.6.0/download?job=build"
 }
