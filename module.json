@@ -1,0 +1,22 @@
+{
+   "name" : "lang-de",
+   "title" : "German [Core]",
+   "version" : "0.6.0",
+   "minimumCoreVersion" : "0.6.4",
+   "compatibleCoreVersion" : "0.6.999",
+   "author" : "Hydroxi, lutece, henry4k",
+   "description" : "German language support for Foundry VTT",
+   "languages" : [
+      {
+         "lang" : "de",
+         "name" : "German",
+         "path" : "de.json"
+      }
+   ],
+   "packs" : [],
+   "scripts" : [],
+   "styles" : [],
+   "url" : "https://gitlab.com/henry4k/foundryvtt-lang-de",
+   "manifest" : "https://gitlab.com/henry4k/foundryvtt-lang-de/-/raw/master/module.json",
+   "download" : "https://gitlab.com/henry4k/foundryvtt-lang-de/-/jobs/artifacts/v0.6.0/download?job=build"
+}
